@@ -9,6 +9,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg?sanitize=true" width="25" height="25">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg?sanitize=true" width="25" height="25">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg?sanitize=true" width="25" height="25">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/flutter-original.svg?sanitize=true" width="25" height="25">  
 </p>
 
 ### About me
