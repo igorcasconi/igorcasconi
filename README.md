@@ -14,7 +14,7 @@
 
 ### About me
 <p>🔭 I’m currently working on Nav9.tech </p>
-<p>🌱 I’m currently learning development Android Native with Google Documentation (Java and Kotlin)</p>
+<p>🌱 I’m becoming Especialist Flutter with Dio.me </p>
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcasconi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
